@@ -42,12 +42,15 @@ This project is an image classification model designed to recognize 20 different
 ## E. Model Testing
 Test 1: Cyclamen
   Result: Correct ( 96% Confidence)
+  ![Cyclamen Test](Cyclamen.png)
 
 Test 2: Geranium
   Result: Correct ( 95% Confidence)
+  ![Geranium Test](Geranium.png)
 
 Test 3: Hibiscus
   Result: Correct ( 99% Confidence)
+   ![Hibiscus Test](Hibiscus.png)
 
 Test 4: Anthurium
   Result: Correct ( 96% Confidence)
@@ -55,6 +58,7 @@ Test 4: Anthurium
 
 Test 5: Barbeton daisy
   Result: Correct ( 97% Confidence)
+    ![Barbeton daisy Test](Barbetondaisy.png)
 
 Test 6: Bougainvillea
   Result: Correct ( 99% Confidence)
