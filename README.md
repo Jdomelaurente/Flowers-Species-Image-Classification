@@ -40,37 +40,59 @@ This project is an image classification model designed to recognize 20 different
 ![Accuracy Per Class](screenshots/accuracy_chart.png)
 
 ## E. Model Testing
-Test 1: Cyclamen
-  Result: Correct ( 96% Confidence)
-  ![Cyclamen Test](Cyclamen.png)
 
-Test 2: Geranium
-  Result: Correct ( 95% Confidence)
-  ![Geranium Test](Geranium.png)
+Below are 10 tests performed using images the model had not seen during training. These results demonstrate the model's ability to generalize and accurately identify plant species in various conditions.
 
-Test 3: Hibiscus
-  Result: Correct ( 99% Confidence)
-   ![Hibiscus Test](Hibiscus.png)
+---
 
-Test 4: Anthurium
-  Result: Correct ( 96% Confidence)
-  ![Anthurium Test](Anthurium.png)
+### Test 1: Cyclamen
+- **Result:** Correct
+- **Confidence:** 96%
+![Cyclamen Test](Cyclamen.png)
 
-Test 5: Barbeton daisy
-  Result: Correct ( 97% Confidence)
-    ![Barbeton daisy Test](Barbeton_daisy.png)
+### Test 2: Geranium
+- **Result:** Correct
+- **Confidence:** 95%
+![Geranium Test](Geranium.png)
 
-Test 6: Bougainvillea
-  Result: Correct ( 99% Confidence)
+### Test 3: Hibiscus
+- **Result:** Correct
+- **Confidence:** 99%
+![Hibiscus Test](Hibiscus.png)
 
-Test 7: Californian poppy
-  Result: Correct ( 100% Confidence)
+### Test 4: Anthurium
+- **Result:** Correct
+- **Confidence:** 96%
+![Anthurium Test](Anthurium.png)
 
-Test 8: Camellia
-  Result: Correct ( 100% Confidence)
+### Test 5: Barbeton Daisy
+- **Result:** Correct
+- **Confidence:** 97%
+![Barbeton daisy Test](Barbeton_daisy.png)
 
-Test 9: Cape flower
-  Result: Correct ( 96% Confidence)
+### Test 6: Bougainvillea
+- **Result:** Correct
+- **Confidence:** 99%
+![Bougainvillea Test](Bougainvillea.png)
 
-Test 10: Clematis
-  Result: Correct ( 98% Confidence)
+### Test 7: Californian Poppy
+- **Result:** Correct
+- **Confidence:** 100%
+![Californian_poppy Test](Californian_poppy.png)
+
+### Test 8: Camellia
+- **Result:** Correct
+- **Confidence:** 100%
+![Camellia Test](Camellia.png)
+
+### Test 9: Cape Flower
+- **Result:** Correct
+- **Confidence:** 96%
+![Cape_flower Test](Cape_flower.png)
+
+### Test 10: Clematis
+- **Result:** Correct
+- **Confidence:** 98%
+![Clematis Test](Clematis.png)
+
+---
