@@ -51,7 +51,7 @@ Test 3: Hibiscus
 
 Test 4: Anthurium
   Result: Correct ( 96% Confidence)
-  ![Anthurium Test](anthurium.png)
+  ![Anthurium Test](Anthurium.png)
 
 Test 5: Barbeton daisy
   Result: Correct ( 97% Confidence)
