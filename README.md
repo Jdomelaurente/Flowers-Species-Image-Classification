@@ -28,7 +28,8 @@ This project is an image classification model designed to recognize 20 different
 | Wallflower | *Erysimum cheiri* | Fragrant, four-petaled flowers in warm earth tones. |
 
 ## C. Model Training Details
-- **Total Images:** 5,000 (250 images per class)
+- **Total Images:** 2,689 (Distributed across 20 classes)
+- **Average Images per Class:** ~134 images (Note: some classes have more/less than others)
 - **Epochs:** 100
 - **Batch Size:** 64
 - **Learning Rate:** 0.001
