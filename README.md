@@ -58,7 +58,7 @@ Test 4: Anthurium
 
 Test 5: Barbeton daisy
   Result: Correct ( 97% Confidence)
-    ![Barbeton daisy Test](Barbetondaisy.png)
+    ![Barbeton daisy Test](Barbeton_daisy.png)
 
 Test 6: Bougainvillea
   Result: Correct ( 99% Confidence)
