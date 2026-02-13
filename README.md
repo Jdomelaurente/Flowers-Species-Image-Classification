@@ -40,7 +40,32 @@ This project is an image classification model designed to recognize 20 different
 ![Accuracy Per Class](screenshots/accuracy_chart.png)
 
 ## E. Model Testing
-*(Insert your 10 test screenshots here)*
-1. ![Test 1](screenshots/test1.png)
-2. ![Test 2](screenshots/test2.png)
-... (repeat for all 10)
+Test 1: Cyclamen
+  Result: Correct ( 96% Confidence)
+
+Test 2: Geranium
+  Result: Correct ( 95% Confidence)
+
+Test 3: Hibiscus
+  Result: Correct ( 99% Confidence)
+
+Test 4: Anthurium
+  Result: Correct ( 96% Confidence)
+
+Test 5: Barbeton daisy
+  Result: Correct ( 97% Confidence)
+
+Test 6: Bougainvillea
+  Result: Correct ( 99% Confidence)
+
+Test 7: Californian poppy
+  Result: Correct ( 100% Confidence)
+
+Test 8: Camellia
+  Result: Correct ( 100% Confidence)
+
+Test 9: Cape flower
+  Result: Correct ( 96% Confidence)
+
+Test 10: Clematis
+  Result: Correct ( 98% Confidence)
