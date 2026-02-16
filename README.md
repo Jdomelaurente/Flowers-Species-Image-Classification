@@ -35,7 +35,7 @@ This project is an image classification model designed to recognize 20 different
 - **Learning Rate:** 0.001
 
 ## D. Model Evaluation
-*(Insert your screenshots here using the syntax below)*
+
 ![Confusion Matrix](loss.png)
 ![Accuracy Per Class](Accuracy.png)
 
