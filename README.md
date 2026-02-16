@@ -36,8 +36,8 @@ This project is an image classification model designed to recognize 20 different
 
 ## D. Model Evaluation
 *(Insert your screenshots here using the syntax below)*
-![Confusion Matrix](screenshots/confusion_matrix.png)
-![Accuracy Per Class](screenshots/accuracy_chart.png)
+![Confusion Matrix](loss.png)
+![Accuracy Per Class](Accuracy.png)
 
 ## E. Model Testing
 
